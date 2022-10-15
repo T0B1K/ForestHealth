@@ -9,7 +9,15 @@ ForestHealth aims to analyse the curent state of the worlds' forests as well as 
 | DB             |      |
 | Maps           |      |
 
-
 Fronend Docker --> rest Call --> main Backend
 
-as
+assynch communication
+
+
+Getting started:
+
+> cd frontend
+>
+> ng serve
+
+starts the angular stuff at (localhost:4200)
