@@ -22,5 +22,8 @@ Getting started:
 
 starts the angular stuff at (localhost:4200)
 
+First UI Draft: 
 
 ![UI Draft](Frontend%20Draft%201.png)
+![UI Draft](Frontend%20Draft%202.png)
+![UI Draft](Frontend%20Draft%203.png)
